@@ -1,0 +1,50 @@
+{
+  "nav": {
+    "findTutors": "Trouver des Tuteurs",
+    "subjects": "Matières",
+    "about": "À propos",
+    "login": "Se connecter",
+    "signup": "S'inscrire"
+  },
+  "home": {
+    "heroTitle": "Trouvez Votre Tuteur Parfait",
+    "heroSubtitle": "Connectez-vous avec des tuteurs experts pour des cours en ligne personnalisés 1-à-1",
+    "ctaButton": "Commencer",
+    "ctaSecondary": "Parcourir les Tuteurs"
+  },
+  "footer": {
+    "brand": "School Pillar",
+    "tagline": "Trouvez votre tuteur parfait",
+    "explore": "Explorer",
+    "findTutors": "Trouver des Tuteurs",
+    "subjects": "Matières",
+    "about": "À propos",
+    "legal": "Mentions légales",
+    "terms": "Conditions d'Utilisation",
+    "privacy": "Politique de Confidentialité",
+    "copyright": "© {year} School Pillar. Tous droits réservés."
+  },
+  "actions": {
+    "search": "Rechercher",
+    "cancel": "Annuler",
+    "save": "Enregistrer",
+    "delete": "Supprimer",
+    "edit": "Modifier",
+    "back": "Retour",
+    "next": "Suivant",
+    "loading": "Chargement..."
+  },
+  "errors": {
+    "notFound": "Page Non Trouvée",
+    "notFoundDescription": "La page que vous recherchez n'existe pas ou a été déplacée.",
+    "goHome": "Aller à l'Accueil",
+    "generic": "Quelque chose s'est mal passé"
+  },
+  "language": {
+    "label": "Langue",
+    "en": "English",
+    "km": "ខ្មែរ",
+    "es": "Español",
+    "fr": "Français"
+  }
+}

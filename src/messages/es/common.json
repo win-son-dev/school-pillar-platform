@@ -1,0 +1,50 @@
+{
+  "nav": {
+    "findTutors": "Buscar Tutores",
+    "subjects": "Materias",
+    "about": "Acerca de",
+    "login": "Iniciar Sesión",
+    "signup": "Registrarse"
+  },
+  "home": {
+    "heroTitle": "Encuentra Tu Tutor Perfecto",
+    "heroSubtitle": "Conecta con tutores expertos para clases online personalizadas 1 a 1",
+    "ctaButton": "Comenzar",
+    "ctaSecondary": "Buscar Tutores"
+  },
+  "footer": {
+    "brand": "School Pillar",
+    "tagline": "Encuentra tu tutor perfecto",
+    "explore": "Explorar",
+    "findTutors": "Buscar Tutores",
+    "subjects": "Materias",
+    "about": "Acerca de",
+    "legal": "Legal",
+    "terms": "Términos de Servicio",
+    "privacy": "Política de Privacidad",
+    "copyright": "© {year} School Pillar. Todos los derechos reservados."
+  },
+  "actions": {
+    "search": "Buscar",
+    "cancel": "Cancelar",
+    "save": "Guardar",
+    "delete": "Eliminar",
+    "edit": "Editar",
+    "back": "Atrás",
+    "next": "Siguiente",
+    "loading": "Cargando..."
+  },
+  "errors": {
+    "notFound": "Página No Encontrada",
+    "notFoundDescription": "La página que buscas no existe o ha sido movida.",
+    "goHome": "Ir al Inicio",
+    "generic": "Algo salió mal"
+  },
+  "language": {
+    "label": "Idioma",
+    "en": "English",
+    "km": "ខ្មែរ",
+    "es": "Español",
+    "fr": "Français"
+  }
+}
